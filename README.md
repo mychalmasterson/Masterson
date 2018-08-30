@@ -1,4 +1,4 @@
-## Masterson ##
+## Will Tiger ever win at Augusta again? ##
 INFOTC2600
 
 
@@ -6,7 +6,7 @@ INFOTC2600
 
 INSERT LINK BETWEEN MARKDOWN PAGES HERE
 
-#### Will Tiger ever again win at Augusta? ####
+
 ![Tiger](https://media.golfdigest.com/photos/5aa9c7f93deb813d90b89ab2/1:1/w_768,c_limit/GettyImages-52612402.jpg "Tiger")
 
 ```python
