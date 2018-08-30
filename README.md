@@ -27,11 +27,12 @@ print s
 3. NOT
 4. CREATIVE
 
-_____
-
 Michael Jackson |Michael Jordan| Michael Johnson|
 --- |---| ---|
 ***Stage*** |*Court* |Office|
 Smile| Win |Family|
 
 ~~is this strikethrough~~
+
+______
+yeet
